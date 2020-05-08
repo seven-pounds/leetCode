@@ -2,9 +2,318 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b9e31cfa-5862-41ef-baad-38488b4e402b" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JDK/Map.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/LinkTable5/Num25_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/LinkTable5/Num61_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/LinkTable5/Num86_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/LinkTable5/Num92_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/LookTable4/Num217.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/Other/Num169.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/Other/Num33.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/Other/Num58.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/StackAndQueue6/LRUCache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/StackAndQueue6/Num146.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/Tree7/Num05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/Tree7/Num100.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/Tree7/Num101.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/Tree7/Num105.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/Tree7/Num106.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/Tree7/Num109.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/Tree7/Num94.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Num1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ustc/Num3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ustc/fuzzy.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCode/DP9/Num343.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/DP9/Num343.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/Alogrithm/KMP.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/Alogrithm/KMP.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/Alogrithm/LCS1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/Alogrithm/LCS1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/Alogrithm/LCS2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/Alogrithm/LCS2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/CIG/Chapter1_StackAndQueue/NUM5_SortStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/CIG/Chapter1_StackAndQueue/NUM5_SortStack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/CIG/Chapter1_StackAndQueue/Num3_ReverseStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/CIG/Chapter1_StackAndQueue/Num3_ReverseStack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/CIG/Chapter1_StackAndQueue/Num7_MaxArrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/CIG/Chapter1_StackAndQueue/Num7_MaxArrays.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/CIG/Chapter1_StackAndQueue/Num8.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/CIG/Chapter1_StackAndQueue/Num8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/CIG/Chapter1_StackAndQueue/Num9.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/CIG/Chapter1_StackAndQueue/Num9.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/CIG/Chapter2_LinkTbale/Num1$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/CIG/Chapter2_LinkTbale/Num1$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/CIG/Chapter2_LinkTbale/Num1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/CIG/Chapter2_LinkTbale/Num1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/CIG/Chapter2_LinkTbale/Num5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/CIG/Chapter2_LinkTbale/Num5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/CIG/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/CIG/TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Array3/Num11.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Array3/Num11.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Array3/Num125.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Array3/Num125.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Array3/Num167.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Array3/Num167.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Array3/Num209.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Array3/Num209.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Array3/Num215.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Array3/Num215.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Array3/Num26.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Array3/Num26.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Array3/Num27.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Array3/Num27.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Array3/Num283.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Array3/Num283.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Array3/Num3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Array3/Num3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Array3/Num344.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Array3/Num344.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Array3/Num345.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Array3/Num345.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Array3/Num438.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Array3/Num438.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Array3/Num75.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Array3/Num75.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Array3/Num76.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Array3/Num76.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Array3/Num80.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Array3/Num80.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Array3/Num88.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Array3/Num88.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/LeetCode/DP9/Num120.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/LeetCode/DP9/Num120.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/LeetCode/DP9/Num279.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/LeetCode/DP9/Num279.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/LeetCode/DP9/Num343.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/LeetCode/DP9/Num343.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/LeetCode/DP9/Num62.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/LeetCode/DP9/Num63.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/LeetCode/DP9/Num64.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/LeetCode/DP9/Num64.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/LeetCode/DP9/Num70.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/LeetCode/DP9/Num70.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/LeetCode/DP9/Num91.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/LeetCode/DP9/Num91.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/LeetCode/LinkTable5/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/LeetCode/LinkTable5/ListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/LeetCode/LinkTable5/Num143.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/LeetCode/LinkTable5/Num143.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/LeetCode/LinkTable5/Num147.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/LeetCode/LinkTable5/Num147.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/LeetCode/LinkTable5/Num148.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/LeetCode/LinkTable5/Num148.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/LeetCode/LinkTable5/Num19.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/LeetCode/LinkTable5/Num19.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/LeetCode/LinkTable5/Num2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/LeetCode/LinkTable5/Num2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/LeetCode/LinkTable5/Num203.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/LeetCode/LinkTable5/Num203.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/LeetCode/LinkTable5/Num206.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/LeetCode/LinkTable5/Num206.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/LeetCode/LinkTable5/Num21.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/LeetCode/LinkTable5/Num21.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/LeetCode/LinkTable5/Num234.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/LeetCode/LinkTable5/Num234.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/LeetCode/LinkTable5/Num237.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/LeetCode/LinkTable5/Num237.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/LeetCode/LinkTable5/Num24.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/LeetCode/LinkTable5/Num24.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/LeetCode/LinkTable5/Num25.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/LeetCode/LinkTable5/Num25.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/LeetCode/LinkTable5/Num328.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/LeetCode/LinkTable5/Num328.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/LeetCode/LinkTable5/Num445.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/LeetCode/LinkTable5/Num445.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/LeetCode/LinkTable5/Num61.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/LeetCode/LinkTable5/Num61.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/LeetCode/LinkTable5/Num82.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/LeetCode/LinkTable5/Num82.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/LeetCode/LinkTable5/Num83.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/LeetCode/LinkTable5/Num83.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/LeetCode/LinkTable5/Num86.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/LeetCode/LinkTable5/Num86.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/LeetCode/LinkTable5/Num92.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/LeetCode/LinkTable5/Num92.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/LeetCode/LookTable4/Num149.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/LeetCode/LookTable4/Num149.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/LeetCode/LookTable4/Num15.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/LeetCode/LookTable4/Num15.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/LeetCode/LookTable4/Num16.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/LeetCode/LookTable4/Num16.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/LeetCode/LookTable4/Num17$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/LeetCode/LookTable4/Num17$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/LeetCode/LookTable4/Num17.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/LeetCode/LookTable4/Num17.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/LeetCode/LookTable4/Num18.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/LeetCode/LookTable4/Num18.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/LeetCode/LookTable4/Num202.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/LeetCode/LookTable4/Num202.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/LeetCode/LookTable4/Num205.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/LeetCode/LookTable4/Num205.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/LeetCode/LookTable4/Num242.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/LeetCode/LookTable4/Num242.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/LeetCode/LookTable4/Num290.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/LeetCode/LookTable4/Num290.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/LeetCode/LookTable4/Num350.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/LeetCode/LookTable4/Num350.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/LeetCode/LookTable4/Num447.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/LeetCode/LookTable4/Num447.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/LeetCode/LookTable4/Num451.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/LeetCode/LookTable4/Num451.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/LeetCode/LookTable4/Num454.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/LeetCode/LookTable4/Num454.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/LeetCode/LookTable4/Num49.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/LeetCode/LookTable4/Num49.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Other/K_Sum_Recursive.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Other/K_Sum_Recursive.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Other/Num12$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Other/Num12$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Other/Num12.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Other/Num12.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Other/Num13.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Other/Num13.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Other/Num1_twoSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Other/Num1_twoSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Other/Num2$ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Other/Num2$ListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Other/Num2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Other/Num2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Other/Num20.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Other/Num20.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Other/Num202_HappyNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Other/Num202_HappyNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Other/Num205_Isomorphic.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Other/Num205_Isomorphic.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Other/Num22.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Other/Num22.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Other/Num242_Anagram.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Other/Num242_Anagram.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Other/Num27.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Other/Num27.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Other/Num27_KMP.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Other/Num27_KMP.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Other/Num28_KMP.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Other/Num28_KMP.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Other/Num290_wordPattern.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Other/Num290_wordPattern.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Other/Num4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Other/Num4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Other/Num459_repeatPattern.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Other/Num459_repeatPattern.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Other/Num5_LongestPalindrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Other/Num5_LongestPalindrome.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Other/Num9.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Other/Num9.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Other/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Other/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Other/ThreeSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Other/ThreeSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Other/TwoSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Other/TwoSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Other/Wind$ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Other/Wind$ListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Other/Wind.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Other/Wind.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Recursion8/Num$1Inner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Recursion8/Num$1Inner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Recursion8/Num.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Recursion8/Num.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Recursion8/Num130.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Recursion8/Num130.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Recursion8/Num131.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Recursion8/Num131.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Recursion8/Num200.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Recursion8/Num200.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Recursion8/Num216.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Recursion8/Num216.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Recursion8/Num39.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Recursion8/Num39.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Recursion8/Num39_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Recursion8/Num39_1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Recursion8/Num40.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Recursion8/Num40.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Recursion8/Num401.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Recursion8/Num401.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Recursion8/Num40_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Recursion8/Num40_1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Recursion8/Num417.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Recursion8/Num417.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Recursion8/Num46.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Recursion8/Num46.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Recursion8/Num46_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Recursion8/Num46_1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Recursion8/Num47.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Recursion8/Num47.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Recursion8/Num51.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Recursion8/Num51.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Recursion8/Num52.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Recursion8/Num52.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Recursion8/Num77.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Recursion8/Num77.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Recursion8/Num78.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Recursion8/Num78.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Recursion8/Num79.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Recursion8/Num79.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Recursion8/Num90.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Recursion8/Num90.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Recursion8/Num93.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Recursion8/Num93.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/LeetCode/StackAndQueue6/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/LeetCode/StackAndQueue6/ListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/LeetCode/StackAndQueue6/Num102.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/LeetCode/StackAndQueue6/Num102.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/LeetCode/StackAndQueue6/Num103.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/LeetCode/StackAndQueue6/Num103.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/LeetCode/StackAndQueue6/Num107.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/LeetCode/StackAndQueue6/Num107.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/LeetCode/StackAndQueue6/Num126.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/LeetCode/StackAndQueue6/Num126.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/LeetCode/StackAndQueue6/Num127.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/LeetCode/StackAndQueue6/Num127.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/LeetCode/StackAndQueue6/Num144.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/LeetCode/StackAndQueue6/Num144.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/LeetCode/StackAndQueue6/Num145.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/LeetCode/StackAndQueue6/Num145.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/LeetCode/StackAndQueue6/Num150.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/LeetCode/StackAndQueue6/Num150.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/LeetCode/StackAndQueue6/Num199.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/LeetCode/StackAndQueue6/Num199.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/LeetCode/StackAndQueue6/Num20.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/LeetCode/StackAndQueue6/Num20.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/LeetCode/StackAndQueue6/Num23.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/LeetCode/StackAndQueue6/Num23.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/LeetCode/StackAndQueue6/Num279.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/LeetCode/StackAndQueue6/Num279.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/LeetCode/StackAndQueue6/Num341.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/LeetCode/StackAndQueue6/Num341.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/LeetCode/StackAndQueue6/Num42.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/LeetCode/StackAndQueue6/Num42.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/LeetCode/StackAndQueue6/Num71.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/LeetCode/StackAndQueue6/Num71.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/LeetCode/StackAndQueue6/Num94.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/LeetCode/StackAndQueue6/Num94.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Tree7/Num104_BinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Tree7/Num104_BinaryTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Tree7/Num108.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Tree7/Num108.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Tree7/Num110.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Tree7/Num110.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Tree7/Num111.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Tree7/Num111.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Tree7/Num112.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Tree7/Num112.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Tree7/Num113.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Tree7/Num113.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Tree7/Num129.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Tree7/Num129.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Tree7/Num222.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Tree7/Num222.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Tree7/Num230.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Tree7/Num230.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Tree7/Num235.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Tree7/Num235.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Tree7/Num236.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Tree7/Num236.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Tree7/Num257.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Tree7/Num257.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Tree7/Num404.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Tree7/Num404.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Tree7/Num437.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Tree7/Num437.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Tree7/Num450.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Tree7/Num450.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Tree7/Num98.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Tree7/Num98.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Tree7/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Tree7/TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Tree7/TreeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Tree7/TreeTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Tree7/TreeUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/LeetCode/Tree7/TreeUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/Lock/Mutex$Sync.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/Lock/Mutex$Sync.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/Lock/Mutex.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/Lock/Mutex.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/META-INF/MyCode.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/MThread/Cache.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/MThread/Cache.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/MThread/DifineName.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/MThread/DifineName.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/MThread/ForkJoin.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/MThread/ForkJoin.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/MThread/Funtion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/MThread/Funtion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/MThread/JCP1_Deprecated$Run.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/MThread/JCP1_Deprecated$Run.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/MThread/JCP1_Deprecated.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/MThread/JCP1_Deprecated.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/MThread/Join$JoinThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/MThread/Join$JoinThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/MThread/Join.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/MThread/Join.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/MThread/Mutex$Sync.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/MThread/Mutex$Sync.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/MThread/Mutex.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/MThread/Mutex.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/MThread/Pipe$Print.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/MThread/Pipe$Print.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/MThread/Pipe.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/MThread/Pipe.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/MThread/ShutDown$Runner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/MThread/ShutDown$Runner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/MThread/ShutDown.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/MThread/ShutDown.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/MThread/TestSleep.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/MThread/TestSleep.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/MThread/ThreadJoin.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/MThread/ThreadJoin.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/MThread/TiketWindow.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/MThread/TiketWindow.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/MThread/WaitNotify$Notify.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/MThread/WaitNotify$Notify.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/MThread/WaitNotify$Wait.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/MThread/WaitNotify$Wait.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/MThread/WaitNotify.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/MThread/WaitNotify.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/NEWCode/Company/Alibaba_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/NEWCode/Company/Alibaba_1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/NEWCode/Company/ByteDance1_2020.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/NEWCode/Company/ByteDance1_2020.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/NEWCode/Company/Cisico.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/NEWCode/Company/Cisico.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/NEWCode/Company/Cisico2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/NEWCode/Company/Cisico2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/NEWCode/Company/ColudWalk1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/NEWCode/Company/ColudWalk1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/NEWCode/Company/CouldWalk2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/NEWCode/Company/CouldWalk2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/NEWCode/Company/Ctrip_1$ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/NEWCode/Company/Ctrip_1$ListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/NEWCode/Company/Ctrip_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/NEWCode/Company/Ctrip_1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/NEWCode/Company/Ctrip_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/NEWCode/Company/Ctrip_2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/NEWCode/Company/DP.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/NEWCode/Company/DP.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/NEWCode/Company/HW1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/NEWCode/Company/HW1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/NEWCode/Company/HW2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/NEWCode/Company/HW2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/NEWCode/Company/HW3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/NEWCode/Company/HW3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/NEWCode/Company/LeiShu.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/NEWCode/Company/LeiShu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/NEWCode/Company/LeiShu1_2020.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/NEWCode/Company/LeiShu1_2020.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/NEWCode/Company/MeiTuan.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/NEWCode/Company/MeiTuan.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/NEWCode/Company/NestEasy4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/NEWCode/Company/NestEasy4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/NEWCode/Company/NetEasy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/NEWCode/Company/NetEasy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/NEWCode/Company/NetEasy1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/NEWCode/Company/NetEasy1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/NEWCode/Company/NetEasy2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/NEWCode/Company/NetEasy2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/NEWCode/Company/NetEasy3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/NEWCode/Company/NetEasy3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/NEWCode/Company/NetEasy6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/NEWCode/Company/NetEasy6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/NEWCode/Company/NetEasy7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/NEWCode/Company/NetEasy7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/NEWCode/Company/NetEasy8.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/NEWCode/Company/NetEasy8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/NEWCode/Company/NetEasy9.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/NEWCode/Company/NetEasy9.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/NEWCode/Company/PDD_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/NEWCode/Company/PDD_1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/NEWCode/Company/PDD_2018_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/NEWCode/Company/PDD_2018_1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/NEWCode/Company/PDD_2018_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/NEWCode/Company/PDD_2018_2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/NEWCode/Company/SIP.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/NEWCode/Company/SIP.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/NEWCode/Company/ST1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/NEWCode/Company/ST1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/NEWCode/Company/ShunFeng.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/NEWCode/Company/ShunFeng.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/NEWCode/Company/ShunFeng1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/NEWCode/Company/ShunFeng1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/NEWCode/Company/T360.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/NEWCode/Company/T360.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/NEWCode/Company/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/NEWCode/Company/TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/NEWCode/Company/YongYou1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/NEWCode/Company/YongYou1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/NEWCode/Company/ZhaoHang1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/NEWCode/Company/ZhaoHang1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/NEWCode/Company/Zoom2019_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/NEWCode/Company/Zoom2019_1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/NEWCode/Offer/MaxValue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/NEWCode/Offer/MaxValue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/NEWCode/Offer/Num19.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/NEWCode/Offer/Num19.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/NEWCode/Offer/Num1_findTarget.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/NEWCode/Offer/Num1_findTarget.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/NEWCode/Offer/Num25_CloneList$RandomListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/NEWCode/Offer/Num25_CloneList$RandomListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/NEWCode/Offer/Num25_CloneList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/NEWCode/Offer/Num25_CloneList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/NEWCode/Offer/Num2_Replace.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/NEWCode/Offer/Num2_Replace.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/NEWCode/Offer/Num3$ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/NEWCode/Offer/Num3$ListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/NEWCode/Offer/Num3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/NEWCode/Offer/Num3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/NEWCode/Offer/Num30_MaxSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/NEWCode/Offer/Num30_MaxSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/NEWCode/Offer/Num32.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/NEWCode/Offer/Num32.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/NEWCode/Offer/Num33_UglyNum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/NEWCode/Offer/Num33_UglyNum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/NEWCode/Offer/Num41_FindContinuousSequence.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/NEWCode/Offer/Num41_FindContinuousSequence.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/NEWCode/Offer/Num42_FindNumbersWithSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/NEWCode/Offer/Num42_FindNumbersWithSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/NEWCode/Offer/Num43_ROL.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/NEWCode/Offer/Num43_ROL.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/NEWCode/Offer/Num44_ReverseSentence.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/NEWCode/Offer/Num44_ReverseSentence.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/NEWCode/Offer/Num45.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/NEWCode/Offer/Num45.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/NEWCode/Offer/Num46_LastRemaining.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/NEWCode/Offer/Num46_LastRemaining.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/NEWCode/Offer/Num47.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/NEWCode/Offer/Num47.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/NEWCode/Offer/Num4_RebuildBinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/NEWCode/Offer/Num4_RebuildBinaryTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/NEWCode/Offer/Num52.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/NEWCode/Offer/Num52.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/NEWCode/Offer/Num56$ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/NEWCode/Offer/Num56$ListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/NEWCode/Offer/Num56.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/NEWCode/Offer/Num56.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/NEWCode/Offer/Num56_2$ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/NEWCode/Offer/Num56_2$ListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/NEWCode/Offer/Num56_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/NEWCode/Offer/Num56_2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/NEWCode/Offer/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/NEWCode/Offer/TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/NEWCode/Offer/num27_Permutation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/NEWCode/Offer/num27_Permutation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/NEWCode/PDD1$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/NEWCode/PDD1$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/NEWCode/PDD1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/NEWCode/PDD1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/NEWCode/PDD2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/NEWCode/PDD2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/Sort/BublleSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/Sort/BublleSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/Sort/HeapSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/Sort/HeapSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/Sort/MergeSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/Sort/MergeSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/Sort/QuickSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/Sort/QuickSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/Sort/SelectSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/Sort/SelectSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/Sort/heapSortTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/Sort/heapSortTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/Spring/TestBean.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/Spring/TestBean.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/ustc/DiGui.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/ustc/DiGui.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/ustc/edu$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/ustc/edu$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/ustc/edu.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCode/ustc/edu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/Array3/Num11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Array3/Num11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/Array3/Num125.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Array3/Num125.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/Array3/Num209.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Array3/Num209.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/Array3/Num215.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Array3/Num215.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/Array3/Num27.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Array3/Num27.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/Array3/Num283.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Array3/Num283.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/Array3/Num3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Array3/Num3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/Array3/Num344.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Array3/Num344.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/Array3/Num345.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Array3/Num345.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/Array3/Num438.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Array3/Num438.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/Array3/Num75.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Array3/Num75.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/DP9/Num279.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/DP9/Num279.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/LinkTable5/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/LinkTable5/ListNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/LinkTable5/Num147.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/LinkTable5/Num147.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/LinkTable5/Num234.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/LinkTable5/Num234.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/LinkTable5/Num25.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/LinkTable5/Num25.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/LinkTable5/Num328.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/LinkTable5/Num328.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/LookTable4/Num149.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/LookTable4/Num149.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/LookTable4/Num15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/LookTable4/Num15.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/LookTable4/Num16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/LookTable4/Num16.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/LookTable4/Num17.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/LookTable4/Num17.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/LookTable4/Num202.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/LookTable4/Num202.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/LookTable4/Num205.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/LookTable4/Num205.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/LookTable4/Num290.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/LookTable4/Num290.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/LookTable4/Num451.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/LookTable4/Num451.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/LookTable4/Num454.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/LookTable4/Num454.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/LookTable4/Num49.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/LookTable4/Num49.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/StackAndQueue6/Num107.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/StackAndQueue6/Num107.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/StackAndQueue6/Num127.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/StackAndQueue6/Num127.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/StackAndQueue6/Num144.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/StackAndQueue6/Num144.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/StackAndQueue6/Num145.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/StackAndQueue6/Num145.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/StackAndQueue6/Num150.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/StackAndQueue6/Num150.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/StackAndQueue6/Num279.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/StackAndQueue6/Num279.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/StackAndQueue6/Num42.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/StackAndQueue6/Num42.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/StackAndQueue6/Num94.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/StackAndQueue6/Num94.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/Tree7/Num108.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Tree7/Num108.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/Tree7/Num98.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Tree7/Num98.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -56,7 +365,7 @@
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -83,14 +392,22 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Num120">
-    <configuration name="Cisico" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NEWCode.Company.Cisico" />
+  <component name="RunManager" selected="Application.Num2">
+    <configuration name="Num1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Num1" />
+      <module name="MyCode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Num169" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.Other.Num169" />
       <module name="MyCode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="NEWCode.Company.*" />
+          <option name="PATTERN" value="LeetCode.Other.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,13 +415,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Num" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.Recursion8.Num" />
+    <configuration name="Num2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Num2" />
+      <module name="MyCode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Num33" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.Other.Num33" />
       <module name="MyCode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LeetCode.Recursion8.*" />
+          <option name="PATTERN" value="LeetCode.Other.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,41 +437,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Num120" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.DP9.Num120" />
+    <configuration name="Num98" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.Tree7.Num98" />
       <module name="MyCode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LeetCode.DP9.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Num46_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.Recursion8.Num46_1" />
-      <module name="MyCode" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="LeetCode.Recursion8.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Num51" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.Recursion8.Num51" />
-      <module name="MyCode" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="LeetCode.Recursion8.*" />
+          <option name="PATTERN" value="LeetCode.Tree7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -177,19 +474,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Num46_1" />
-      <item itemvalue="Application.Num51" />
-      <item itemvalue="Application.Num" />
-      <item itemvalue="Application.Cisico" />
-      <item itemvalue="Application.Num120" />
+      <item itemvalue="Application.Num169" />
+      <item itemvalue="Application.Num98" />
+      <item itemvalue="Application.Num33" />
+      <item itemvalue="Application.Num1" />
+      <item itemvalue="Application.Num2" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Num120" />
-        <item itemvalue="Application.Cisico" />
-        <item itemvalue="Application.Num" />
-        <item itemvalue="Application.Num51" />
-        <item itemvalue="Application.Num46_1" />
+        <item itemvalue="Application.Num2" />
+        <item itemvalue="Application.Num1" />
+        <item itemvalue="Application.Num33" />
+        <item itemvalue="Application.Num98" />
+        <item itemvalue="Application.Num169" />
       </list>
     </recent_temporary>
   </component>
@@ -250,7 +547,18 @@
       <workItem from="1576212909312" duration="252000" />
       <workItem from="1576591094578" duration="1714000" />
       <workItem from="1577112514142" duration="596000" />
-      <workItem from="1577151269507" duration="1508000" />
+      <workItem from="1577151269507" duration="3495000" />
+      <workItem from="1583131465280" duration="215000" />
+      <workItem from="1583388278162" duration="133000" />
+      <workItem from="1584013437529" duration="2502000" />
+      <workItem from="1584618201728" duration="686000" />
+      <workItem from="1584622782516" duration="33000" />
+      <workItem from="1585030507506" duration="969000" />
+      <workItem from="1585510123081" duration="13312000" />
+      <workItem from="1585915831959" duration="11004000" />
+      <workItem from="1586335341091" duration="11948000" />
+      <workItem from="1586699163695" duration="2877000" />
+      <workItem from="1586962360943" duration="27890000" />
     </task>
     <servers />
   </component>
@@ -484,12 +792,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/LeetCode/Array3/Num27.java</url>
-          <line>5</line>
-          <option name="timeStamp" value="115" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/LeetCode/Array3/Num27.java</url>
-          <line>8</line>
+          <line>33</line>
           <option name="timeStamp" value="116" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
@@ -549,12 +852,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/LeetCode/Array3/Num209.java</url>
-          <line>5</line>
-          <option name="timeStamp" value="149" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/LeetCode/Array3/Num209.java</url>
-          <line>8</line>
+          <line>9</line>
           <option name="timeStamp" value="150" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
@@ -574,13 +872,8 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/LeetCode/LookTable4/Num15.java</url>
-          <line>15</line>
+          <line>42</line>
           <option name="timeStamp" value="154" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/LeetCode/LookTable4/Num16.java</url>
-          <line>10</line>
-          <option name="timeStamp" value="156" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/LeetCode/LookTable4/Num16.java</url>
@@ -589,7 +882,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/LeetCode/LookTable4/Num16.java</url>
-          <line>13</line>
+          <line>31</line>
           <option name="timeStamp" value="158" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
@@ -701,6 +994,221 @@
           <url>file://$PROJECT_DIR$/src/NEWCode/Company/Cisico.java</url>
           <line>19</line>
           <option name="timeStamp" value="188" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCode/Tree7/Num94.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="191" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCode/Tree7/Num94.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="192" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCode/Array3/Num3.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="194" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCode/Array3/Num3.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="195" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCode/Array3/Num27.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="196" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCode/Array3/Num27.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="197" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCode/Array3/Num27.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="198" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCode/Array3/Num75.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="199" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCode/Array3/Num125.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="202" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCode/Array3/Num209.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="203" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCode/Array3/Num209.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="204" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCode/Array3/Num215.java</url>
+          <line>58</line>
+          <option name="timeStamp" value="206" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCode/Array3/Num215.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="210" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCode/Array3/Num215.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="212" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCode/Array3/Num283.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="220" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCode/Array3/Num283.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="221" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCode/Array3/Num283.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="222" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCode/Array3/Num283.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="223" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCode/Array3/Num283.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="224" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCode/Array3/Num283.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="225" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCode/Array3/Num283.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="226" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCode/Array3/Num438.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="227" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCode/Array3/Num438.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="228" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCode/LookTable4/Num16.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="229" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCode/LookTable4/Num49.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="230" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCode/LookTable4/Num49.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="231" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCode/LookTable4/Num149.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="233" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCode/LookTable4/Num149.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="234" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCode/LookTable4/Num290.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="235" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCode/LookTable4/Num290.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="237" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCode/LinkTable5/Num61_1.java</url>
+          <line>3</line>
+          <option name="timeStamp" value="240" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCode/DP9/Num279.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="241" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCode/DP9/Num279.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="242" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCode/StackAndQueue6/Num127.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="243" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCode/StackAndQueue6/Num127.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="244" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCode/Other/Num169.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="245" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCode/Other/Num169.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="246" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCode/Tree7/Num98.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="247" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCode/Tree7/Num98.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="250" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCode/Tree7/Num98.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="251" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCode/Other/Num33.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="252" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCode/Other/Num33.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="253" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Num1.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="254" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

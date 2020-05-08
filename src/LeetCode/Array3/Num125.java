@@ -4,6 +4,7 @@ public class Num125 {
     public static void main(String[] args) {
         String s = "race a ca";
         System.out.println(isPalindrome(s));
+        System.out.println(ischarater('f'));
     }
 
     public static boolean isPalindrome(String s) {
